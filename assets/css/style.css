@@ -1,0 +1,92 @@
+navbar navbar-default {
+	background-color: #4aaaa5;
+}
+
+#Nick {
+  width: 250px;
+  height: 90px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 90px;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  background: #4aaaa5;
+}
+
+.social {
+	width: 62px;
+  	height: 62px;
+  	margin-top: 8px;
+  	margin-right: 5px;
+}
+body {
+	
+}
+.copyright-footer {
+	text-align: center;
+
+}
+#message {
+	height: 100px;
+}
+.navbar-brand {
+	background-color: #4aaaa5;
+}
+.nick-header {
+	width: 100%;
+  	margin: 0 0 30px;
+  	overflow: auto;
+  	color: #fff;
+  	background: #fff;
+  	border-bottom: 2px solid #ccc;
+}
+
+li {
+	display: inline-block;
+  	padding-left: 15px;
+  	margin-left: 15px;
+  	line-height: 18px;
+  	text-decoration: none;
+  	border-left: 1px solid #efefef;
+}
+li a {
+	color: #999;
+}
+
+
+#nick-header {
+	margin-top: 0;
+}
+h1 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+	color:#4aaaa5;
+  font-size: 30px;
+}
+.portfolio-image {
+	width:274px;
+}
+.auth-image {
+	width: 200px;
+}
+.row.no-gutters {
+	margin-right:0;
+  	margin-left:0;
+}
+p {
+	margin-left: 0px;
+}
+h2 {
+  font-size: 30px;
+  color:#4aaaa5;
+}
+.copyright-footer {
+  height: 60px;
+  width: 100%;
+  background-color: #ddd;
+  border-top: 10px solid #4aaaa5;
+}
+.main-section {
+  height: 800px;
+}
